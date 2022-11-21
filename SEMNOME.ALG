@@ -10,6 +10,7 @@ Var
 
 Inicio
 escreval("Ola Mundo")
+escreval("Boa Tarde")
 
 
 Fimalgoritmo
